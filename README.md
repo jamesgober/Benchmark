@@ -180,7 +180,7 @@ For bugs, feature requests, or security issues, please visit our **[Issue Tracke
 
 If you discover a vulnerability, refer to our [Security Policy](.github/SECURITY.md).
 
----
+&nbsp;
 
 ## Contributing
 
