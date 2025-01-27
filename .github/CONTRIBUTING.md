@@ -9,7 +9,6 @@
 
 Thank you for considering contributing to **JG\Benchmark**! Contributions of all types are welcome and help improve the project. This guide outlines how you can participate effectively.
 
-&nbsp;
 
 &nbsp;
 
@@ -17,10 +16,10 @@ Thank you for considering contributing to **JG\Benchmark**! Contributions of all
 
 ### 1. Bug Reports and Feature Requests
 - **Bug Reports**:
-  - Use the [GitHub Issues](https://github.com/jamesgober/config/issues) page to report bugs.
+  - Use the [GitHub Issues](https://github.com/jamesgober/Benchmark/issues) page to report bugs.
   - Include clear details such as steps to reproduce, expected behavior, and the actual result.
 - **Feature Requests**:
-  - Open a feature request on [GitHub Issues](https://github.com/jamesgober/config/issues).
+  - Open a feature request on [GitHub Issues](https://github.com/jamesgober/Benchmark/issues).
   - Provide a description of the feature, its purpose, and potential use cases.
 
 
@@ -82,8 +81,6 @@ Our library follows strict coding and design principles to maintain high-quality
 - Follow the **[PSR-12](https://www.php-fig.org/psr/psr-12/)** coding standards for consistent and modern PHP code style.
 - Write **clean, maintainable, and efficient** code, with performance and extensibility in mind.
 - Use **detailed PHPDoc comments** for all methods, classes, and properties, ensuring clarity for other contributors.
-
-For a deeper understanding of our philosophy, refer to the [Design Philosophy](./../docs/DESIGN_PHILOSOPHY.md).
 
 &nbsp;
 
