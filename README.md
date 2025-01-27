@@ -8,14 +8,11 @@
     <br>
     <sup>
         <small><small><small>
-        PHP PERFORMANCE INSIGHTS<br>
-        PRECISION TIMING &amp; PERFORMANCE INSIGHTS FOR PHP
+        PHP PERFORMANCE INSIGHTS
         </small></small></small>
     </sup>
     <br>
 </h1>
-
-
 
 <div align="center">
     <img src="https://img.shields.io/github/stars/jamesgober/Benchmark?style=flat" alt="GitHub Stars"> &nbsp; 
